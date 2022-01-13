@@ -1,0 +1,7 @@
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\bin\Debug\220113_Test_for_foreach.exe.config
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\bin\Debug\220113_Test_for_foreach.exe
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\bin\Debug\220113_Test_for_foreach.pdb
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\obj\Debug\220113_Test_for_foreach.csproj.AssemblyReference.cache
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\obj\Debug\220113_Test_for_foreach.csproj.CoreCompileInputs.cache
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\obj\Debug\220113_Test_for_foreach.exe
+D:\TestCode\220113_Test_for_foreach\220113_Test_for_foreach\obj\Debug\220113_Test_for_foreach.pdb
